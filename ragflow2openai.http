@@ -1,0 +1,6 @@
+@ragflow2openai_HostAddress = http://localhost:5253
+
+GET {{ragflow2openai_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
